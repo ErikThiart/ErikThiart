@@ -20,8 +20,9 @@ There are many ways I can help you with your current website or next project.
 
 🔗 [ErikThiart.com](https://ErikThiart.com)
 
-🐦 [https://twitter.com/ErikThiart](https://twitter.com/ErikThiart)
+🐦 [twitter.com/ErikThiart](https://twitter.com/ErikThiart)
 
+💵 [paypal.me/erikthiart](https://paypal.me/erikthiart?country.x=ZA&locale.x=en_US)
 
 <!--
 **ErikThiart/ErikThiart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
