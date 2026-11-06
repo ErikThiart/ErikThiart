@@ -10,6 +10,8 @@
 
 PHP and MySQL are my main tools, but I'm not limited to that stack. I can work in any language the project needs. **The business problem comes first.**
 
+My experience spans **telecoms, investigative branches of government, municipal projects, retail, surveillance and security**. **I can work in any industry: explain the problem, and I'll build the solution.**
+
 <p>
   <a href="mailto:web@erikthiart.com"><img src="assets/contact.svg" alt="Let's work together — email Erik Thiart" height="40"></a>
   <a href="https://x.com/ErikThiart"><img src="assets/follow.svg" alt="Follow @ErikThiart on X" height="40"></a>
@@ -23,7 +25,7 @@ PHP and MySQL are my main tools, but I'm not limited to that stack. I can work i
 
 | Experience | Work you can explore | Based in South Africa |
 | :--- | :--- | :--- |
-| **14+ years** building and maintaining software | **5 featured live websites and applications** | **Available internationally** for projects and team roles |
+| **14+ years** building and maintaining software | **11 featured live websites and applications** | **Available internationally** for projects and team roles |
 
 ## Selected projects
 
@@ -72,6 +74,55 @@ PHP and MySQL are my main tools, but I'm not limited to that stack. I can work i
       <p>A mobile data subscription platform with monthly plan information, subscription signup and account access.</p>
       <p><sub>MOBILE DATA · SUBSCRIPTIONS · CUSTOMER ACCOUNTS</sub></p>
       <p><strong><a href="https://successco125.co.za/">Explore SuccessCo ↗</a></strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://futurecitiesafrica.com/"><img src="assets/future-cities-africa.jpg" alt="Future Cities Africa homepage featuring podcasts, webinars and African city discussions" width="640"></a>
+      <h3>Future Cities Africa</h3>
+      <p>A content platform exploring African cities through podcasts, webinars, industry interviews and municipal insights.</p>
+      <p><strong>Built and hosted by me in partnership with the Future Cities Africa team.</strong></p>
+      <p><sub>CONTENT PLATFORM · MUNICIPAL INSIGHTS · HOSTING</sub></p>
+      <p><strong><a href="https://futurecitiesafrica.com/">Explore Future Cities Africa ↗</a></strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://bizlookuppro.com/"><img src="assets/bizlookuppro.jpg" alt="BizLookupPro homepage with business search and source-linked business listings" width="640"></a>
+      <h3>BizLookupPro</h3>
+      <p>An international business directory with location and category search, source-linked business profiles and free business listings.</p>
+      <p><sub>BUSINESS DIRECTORY · SEARCH · BUSINESS PROFILES</sub></p>
+      <p><strong><a href="https://bizlookuppro.com/">Explore BizLookupPro ↗</a></strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://watchful.co.za/"><img src="assets/watchful.jpg" alt="Watchful homepage presenting surveillance equipment, GPS tracking and security services" width="640"></a>
+      <h3>Watchful</h3>
+      <p>A website and equipment catalogue presenting GPS tracking, surveillance technology and investigative services.</p>
+      <p><sub>SURVEILLANCE · SECURITY · EQUIPMENT CATALOGUE</sub></p>
+      <p><strong><a href="https://watchful.co.za/">Explore Watchful ↗</a></strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://icatch.co.za/"><img src="assets/icatch.jpg" alt="iCatch private investigation agency website showing its investigation and surveillance services" width="640"></a>
+      <h3>iCatch</h3>
+      <p>A private investigation agency website presenting surveillance, GPS tracking, background-check services and contact information.</p>
+      <p><sub>INVESTIGATION SERVICES · SURVEILLANCE · BUSINESS WEBSITE</sub></p>
+      <p><strong><a href="https://icatch.co.za/">Explore iCatch ↗</a></strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://geldenhuysphysiotherapy.co.za/"><img src="assets/geldenhuys-physiotherapy.jpg" alt="Geldenhuys Physiotherapy homepage presenting its Century City practice and rehabilitation services" width="640"></a>
+      <h3>Geldenhuys Physiotherapy</h3>
+      <p>A physiotherapy practice website with service information, practitioner profiles, pricing and appointment enquiry links.</p>
+      <p><sub>HEALTHCARE · PRACTICE WEBSITE · APPOINTMENT ENQUIRIES</sub></p>
+      <p><strong><a href="https://geldenhuysphysiotherapy.co.za/">Explore Geldenhuys Physiotherapy ↗</a></strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://caperiverstone.co.za/"><img src="assets/cape-river-stone.jpg" alt="Cape River Stone website presenting river stone, pebbles and landscaping products" width="640"></a>
+      <h3>Cape River Stone</h3>
+      <p>A landscaping supplier website with product information, pricing, galleries and customer enquiry details for river stone, pebbles and related products.</p>
+      <p><sub>RETAIL · PRODUCT CATALOGUE · CUSTOMER ENQUIRIES</sub></p>
+      <p><strong><a href="https://caperiverstone.co.za/">Explore Cape River Stone ↗</a></strong></p>
     </td>
   </tr>
 </table>
