@@ -1,10 +1,14 @@
 # Hi, I'm Erik Thiart
 
-**PHP developer · API integrations · Business software · South Africa**
+**Software developer · API integrations · Business software · South Africa**
 
 I solve problems for a living. I have 14+ years of experience building and maintaining web applications, from the database and backend to the interface people use every day.
 
 I help businesses connect their systems, automate repetitive work, and get more from the software they already have.
+
+PHP and MySQL are my main tools, but I'm not limited to that stack. I can work in any language the project needs. I start with the business problem and use the tools that fit.
+
+If you have a business problem to solve or need a Swiss Army knife on your team, I'm your guy.
 
 **Open to freelance projects, consulting engagements and full-time developer roles.**
 
@@ -20,6 +24,15 @@ I help businesses connect their systems, automate repetitive work, and get more 
 My approach is straightforward: understand the problem, keep the solution as simple as it can be, and make it maintainable for the people who come after me.
 
 ## Selected projects
+
+### Live websites and applications I've built
+
+- **[SIMcloud](https://simcloud.co.za/)** — A bulk airtime, data and prepaid services platform with SIM fleet management, business dashboards and API integrations.
+- **[AllNet Airtime](https://allnetairtime.co.za/)** — A universal airtime voucher platform for business rewards and incentives, with bulk ordering, distribution and API access.
+- **[SuperShield](https://supershield.co.za/)** — A cybersecurity awareness and training platform with staff assessments, phishing simulations and reporting dashboards.
+- **[Pets in Peace](https://petsinpeaceshop.co.za/)** — A pet aftercare voucher platform with online checkout, pet registration, voucher activation and customer accounts.
+
+### Open-source projects and integrations
 
 - **[SIMcloud for WooCommerce](https://github.com/ErikThiart/simcloud-woocommerce)** — A WordPress/WooCommerce plugin connecting paid orders to the SIMcloud prepaid API, with background processing and a fulfilment ledger. Currently an installable prerelease.
 - **[SIMcloud for Zoho Commerce](https://github.com/ErikThiart/simcloud-zoho-commerce)** — A product-import widget and procedural PHP connector for prepaid commerce. Developer alpha, with payment verification and reconciliation for uncertain delivery outcomes.
