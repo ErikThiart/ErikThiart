@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">Erik Thiart — Business problems. Working software.</title>
+<desc id="desc">Software development in South Africa for businesses around the world. Fourteen plus years of experience.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#29434a" stroke-width="0.6"/></pattern></defs>
+<rect width="1280" height="440" rx="24" fill="#0d171f"/>
+<rect x="820" width="460" height="440" rx="24" fill="#13252d"/>
+<rect x="820" width="460" height="440" rx="24" fill="url(#grid)"/>
+<path d="M820 0V440" stroke="#29434a"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<circle cx="62" cy="53" r="5" fill="#68e6bc"/>
+<text x="80" y="59" font-size="17" font-weight="700" letter-spacing="3" fill="#f0f6f4">ERIK THIART</text>
+<text x="56" y="164" font-size="72" font-weight="750" letter-spacing="-3" fill="#f0f6f4">Business problems.</text>
+<text x="56" y="247" font-size="72" font-weight="750" letter-spacing="-3" fill="#68e6bc">Working software.</text>
+<text x="60" y="302" font-size="21" fill="#a4b9b7">Applications. Integrations. Automation.</text>
+<path d="M60 350H757" stroke="#29434a"/>
+<text x="60" y="388" font-size="15" font-weight="600" letter-spacing="1.3" fill="#a4b9b7">SOUTH AFRICA</text>
+<path d="M212 383H254M248 377L254 383L248 389" fill="none" stroke="#68e6bc" stroke-width="2"/>
+<text x="272" y="388" font-size="15" font-weight="600" letter-spacing="1.3" fill="#a4b9b7">WORKING GLOBALLY</text>
+<text x="865" y="68" font-size="13" letter-spacing="2" fill="#a4b9b7">BUILT FOR THE BUSINESS</text>
+<rect x="865" y="101" width="370" height="101" rx="12" fill="#0d171f" stroke="#29434a"/>
+<text x="888" y="151" font-size="42" font-weight="700" fill="#68e6bc">14+</text>
+<text x="1005" y="143" font-size="15" font-weight="600" fill="#f0f6f4">YEARS BUILDING</text>
+<text x="1005" y="168" font-size="15" fill="#a4b9b7">AND MAINTAINING</text>
+<path d="M890 264H1210M890 264V329H1210" fill="none" stroke="#29434a" stroke-width="2"/>
+<circle cx="890" cy="264" r="7" fill="#68e6bc"/>
+<circle cx="1050" cy="264" r="7" fill="#68e6bc"/>
+<circle cx="1210" cy="264" r="7" fill="#68e6bc"/>
+<circle cx="1210" cy="329" r="7" fill="#68e6bc"/>
+<text x="865" y="237" font-size="13" letter-spacing="1" fill="#f0f6f4">APPLICATIONS</text>
+<text x="1009" y="237" font-size="13" letter-spacing="1" fill="#f0f6f4">APIs</text>
+<text x="1125" y="237" font-size="13" letter-spacing="1" fill="#f0f6f4">WORKFLOWS</text>
+<text x="865" y="385" font-size="16" fill="#a4b9b7">Understand. Build. Keep it working.</text>
+</g></svg>
