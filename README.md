@@ -67,11 +67,11 @@ PHP and MySQL are my main tools, but I'm not limited to that stack. I can work i
       <p><strong><a href="https://supershield.co.za/">Explore SuperShield ↗</a></strong></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://successco.co.za/"><img src="assets/successco.jpg" alt="SuccessCo public website for business growth and consulting services" width="640"></a>
+      <a href="https://successco125.co.za/"><img src="assets/successco.jpg" alt="SuccessCo public homepage for monthly mobile data subscriptions" width="640"></a>
       <h3>SuccessCo</h3>
-      <p>A business growth and consulting website presenting strategy, customer acquisition and team development services. A different business and audience, with a website built around its offering.</p>
-      <p><sub>BUSINESS WEBSITE · SERVICE PRESENTATION</sub></p>
-      <p><strong><a href="https://successco.co.za/">Explore SuccessCo ↗</a></strong></p>
+      <p>A mobile data subscription platform with monthly plan information, subscription signup and account access.</p>
+      <p><sub>MOBILE DATA · SUBSCRIPTIONS · CUSTOMER ACCOUNTS</sub></p>
+      <p><strong><a href="https://successco125.co.za/">Explore SuccessCo ↗</a></strong></p>
     </td>
   </tr>
 </table>
