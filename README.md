@@ -30,6 +30,7 @@ My approach is straightforward: understand the problem, keep the solution as sim
 - **[SIMcloud](https://simcloud.co.za/)** — A bulk airtime, data and prepaid services platform with SIM fleet management, business dashboards and API integrations.
 - **[AllNet Airtime](https://allnetairtime.co.za/)** — A universal airtime voucher platform for business rewards and incentives, with bulk ordering, distribution and API access.
 - **[SuperShield](https://supershield.co.za/)** — A cybersecurity awareness and training platform with staff assessments, phishing simulations and reporting dashboards.
+- **[SuccessCo](https://successco.co.za/)** — A business growth and consulting website presenting strategy, customer acquisition and team development services.
 - **[Pets in Peace](https://petsinpeaceshop.co.za/)** — A pet aftercare voucher platform with online checkout, pet registration, voucher activation and customer accounts.
 
 ### Open-source projects and integrations
