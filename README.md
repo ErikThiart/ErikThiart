@@ -1,40 +1,37 @@
-### Hi there 👋
+# Hi, I'm Erik Thiart
 
-I'm Erik Thiart. A full-stack developer based in South Africa. ![South African Flag](https://i.imgur.com/Uht7KAh.png)
+**PHP developer · API integrations · Business software · South Africa**
 
-There are many ways I can help you with your current website or next project.
+I solve problems for a living. I have 14+ years of experience building and maintaining web applications, from the database and backend to the interface people use every day.
 
-**Front-end Development**
-- Have a design you want transforming into accessible clean code?
+I help businesses connect their systems, automate repetitive work, and get more from the software they already have.
 
-**Javascript Development**
-- Need help turning static HTML into interactive front-end apps?
+**Open to freelance projects, consulting engagements and full-time developer roles.**
 
-**Backend Development**
-- Need an API creating, or integrating with another existing service?
+**[Discuss a project](mailto:web@erikthiart.com) · [Follow @ErikThiart on X](https://x.com/ErikThiart) · [Website](https://erikthiart.com/)**
 
-**Consultation**
-- Not sure why your website is slow or not converting enough visitors?
+## What I can help you with
 
-### How to reach me
+- **PHP and MySQL development:** Build a new application, add a feature, or maintain an existing codebase.
+- **API integrations and automation:** Connect services, sync data, and turn manual processes into repeatable workflows.
+- **Business dashboards and admin tools:** Build practical interfaces with JavaScript, Bootstrap and AdminLTE.
+- **Troubleshooting and ongoing support:** Investigate bugs, slow queries and failed integrations, with clear logging and explicit error handling.
 
-🔗 [ErikThiart.com](https://ErikThiart.com)
+My approach is straightforward: understand the problem, keep the solution as simple as it can be, and make it maintainable for the people who come after me.
 
-🐦 [twitter.com/ErikThiart](https://twitter.com/ErikThiart)
+## Selected projects
 
-💵 [paypal.me/erikthiart](https://paypal.me/erikthiart?country.x=ZA&locale.x=en_US)
+- **[SIMcloud for WooCommerce](https://github.com/ErikThiart/simcloud-woocommerce)** — A WordPress/WooCommerce plugin connecting paid orders to the SIMcloud prepaid API, with background processing and a fulfilment ledger. Currently an installable prerelease.
+- **[SIMcloud for Zoho Commerce](https://github.com/ErikThiart/simcloud-zoho-commerce)** — A product-import widget and procedural PHP connector for prepaid commerce. Developer alpha, with payment verification and reconciliation for uncertain delivery outcomes.
+- **[DBease](https://github.com/ErikThiart/DBease)** — A lightweight PHP/MySQL library using PDO, with CRUD helpers, query logging and Composer installation.
+- **[Cryptocurrency Icons](https://github.com/ErikThiart/cryptocurrency-icons)** — An open-source cryptocurrency icon collection with 250+ GitHub stars.
 
-<!--
-**ErikThiart/ErikThiart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Follow along on X
 
-Here are some ideas to get you started:
+Interested in PHP, API integrations and building useful software? Follow **[@ErikThiart](https://x.com/ErikThiart)** for practical development notes, lessons from integrations, and project updates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's work together
+
+Have a project or a developer role in mind? Tell me about the business, the software and what you need help with. I'm happy to join an existing team or work directly with you on a defined project.
+
+**[Email web@erikthiart.com](mailto:web@erikthiart.com)** · [LinkedIn](https://www.linkedin.com/in/erikthiart/) · [More about me](https://erikthiart.com/)
